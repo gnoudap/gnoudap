@@ -48,6 +48,7 @@
  
 ## Other Stuff
   - :octocat: [My Resume](https://github.com/gnoudap/gnoudap/blob/main/DuongPham.pdf)
+  - :circus_tent: [My Portfolio](https://gnoudap1005.vercel.app)
 
 ![Duong's github stats](https://github-readme-stats.vercel.app/api?username=gnoudap&show_icons=true&hide=[%22issues%22])
  
