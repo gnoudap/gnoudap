@@ -12,7 +12,7 @@
 * Data Science
 * Frontend and Backend Web Development
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gnoudap&layout=compact">
+<img src = "https://github-stats-extended.vercel.app/api/top-langs/?username=gnoudap&layout=compact&theme=tokyonight">
 
 ## Programming Languages
 <img src = 'https://github.com/gnoudap/gnoudap/blob/main/images/c.svg' width='30'/> <img src = 'https://github.com/gnoudap/gnoudap/blob/main/images/c++.svg' width='30'/> <img src = 'https://github.com/gnoudap/gnoudap/blob/main/images/python.svg' height='30'/>  <img src = 'https://github.com/gnoudap/gnoudap/blob/main/images/html5.svg' width='30'/> <img src='https://github.com/gnoudap/gnoudap/blob/main/images/css3.svg' width='30'/> <img src = 'https://github.com/gnoudap/gnoudap/blob/main/images/javascript.svg' width='36'/> <img src = 'https://github.com/gnoudap/gnoudap/blob/main/images/typescript.svg' width='36'/> <img src = 'https://github.com/gnoudap/gnoudap/blob/main/images/mysql.svg' width='50'/> 
@@ -50,6 +50,6 @@
   - :octocat: [My Resume](https://github.com/gnoudap/gnoudap/blob/main/DuongPham.pdf)
   - :circus_tent: [My Portfolio](https://gnoudap1005.vercel.app)
 
-![Duong's github stats](https://github-readme-stats.vercel.app/api?username=gnoudap&show_icons=true&hide=[%22issues%22])
+![Duong's github stats](https://github-stats-extended.vercel.app/api?username=gnoudap&show_icons=true&hide=[%22issues%22]&theme=tokyonight)
  
  
