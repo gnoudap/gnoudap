@@ -47,7 +47,7 @@
  * I'm currently working on 🔭 building **AI-powered software** and working up on polishing my skills 🌱 in **Competitive Programming**.
  
 ## Other Stuff
-  - :octocat: [My Resume](https://github.com/gnoudap/gnoudap/blob/main/DuongPham.pdf)
+  - :octocat: [My Resume](https://github.com/gnoudap/gnoudap/blob/main/Duong_Pham_Resume.pdf)
   - :circus_tent: [My Portfolio](https://gnoudap1005.vercel.app)
 
 ![Duong's github stats](https://github-stats-extended.vercel.app/api?username=gnoudap&show_icons=true&hide=[%22issues%22]&theme=tokyonight)
