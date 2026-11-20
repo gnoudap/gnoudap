@@ -33,7 +33,7 @@
 			]
 	
 	def getCity():
-		return DaNang_VietNam()
+		return Troy_Alabama()
 	
 	def Ambitions():
 		LearnSpanish()
@@ -44,7 +44,7 @@
  
 ## Current Works
  * Breaking into AI !!
- * I'm currently working on 🔭 building **AI-powered software** and working up on polishing my skills 🌱 in **Competitive Programming**.
+ * I'm currently working on 🔭 building **AI-powered software** and working up on polishing my skills 🌱 in **Research**.
  
 ## Other Stuff
   - :octocat: [My Resume](https://github.com/gnoudap/gnoudap/blob/main/Duong_Pham_Resume.pdf)
